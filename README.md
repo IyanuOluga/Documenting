@@ -6,7 +6,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-
+---
 This data analysis project aims to provide insights into the sales revenue performances of an e-commerce company in different states, by analyzing various aspects of the sales data, we seek to identify trends, make data-driven reccomendations, and gain a deeper understanding of the company's product performances.
 
 ### Data Sources
@@ -43,5 +43,5 @@ The analysis results are as follows;
 Based on the analysis, we recommend the following actions;
 - invest in marketing and promotions in populated states during peak sales seasons to maximize revenue.
 - focus on promoting more clocks in the accesories category.
-- implement
+- implement a customer segmentation strategy to target high-LTV customers effectively.
 
